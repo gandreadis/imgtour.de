@@ -1,0 +1,17 @@
+{
+  "name": "imgtour.de",
+  "version": "0.0.1",
+  "description": "Site for the I Musici Giovani Tour 2018",
+  "main": "www/index.html",
+  "repository": "https://github.com/gandreadis/imgtour.de",
+  "author": "Georgios Andreadis <g.andreadis@student.tudelft.nl>",
+  "license": "MIT",
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-exec": "^3.0.1",
+    "gulp-watch": "^5.0.0",
+    "run-sequence": "^2.2.1",
+    "static-i18n": "^0.2.2"
+  }
+}
