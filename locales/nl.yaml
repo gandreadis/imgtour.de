@@ -1,5 +1,5 @@
 pageTitle: I Musici Giovani Tournee 2018
-pageDescription: Wij zijn een jong strijkersensemble uit Den Haag! In augustus gaan we op tournee naar Eisenach en Weimar (Duitsland), waar we op een aantal locaties concerten zullen geven.
+pageDescription: Wij zijn een jong strijkersensemble uit Den Haag! In augustus gaan we op tournee naar Eisenach, Weimar, Dresden en Meiningen (Duitsland), waar we op een aantal locaties concerten zullen geven.
 stringEnsemble: Strijkersensemble
 tourTitle: Duitsland Tour 2018
 lang: nl
@@ -22,15 +22,13 @@ about:
       Sinds 2013 treden wij als ensemble meerdere keren per jaar op. Recent hebben wij in o.a. Panorama Mesdag (Den Haag) en het Museum voor Religieuze Kunst (Uden) gespeelt. Onder leiding van onze dirigent, Harry van der Meer, hebben we een divers repertoire ten gehore gebracht, van Boccherini tot Glazunov.
 
     tour: |
-      In augustus gaan we op tournee naar Eisenach en Weimar (Duitsland), waar we op een aantal locaties concerten zullen geven! Wij hebben er al ontzettend veel zin in! 🎉
+      In augustus gaan we op tournee naar Eisenach, Weimar, Dresden en Meiningen (Duitsland), waar we op een aantal locaties concerten zullen geven! Wij hebben er al ontzettend veel zin in! 🎉
       <br><br>
 
       Wilt u ons mee op tournee helpen? Zie <a href="#donations">onderaan deze pagina</a> voor informatie over hoe u ons kunt steunen.
 
 concerts:
   title: Concerten
-  eisenach:
-    title: Bach Huis (Eisenach)
 
 donations:
   title: Sponsoring

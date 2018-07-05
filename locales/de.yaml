@@ -1,5 +1,5 @@
 pageTitle: I Musici Giovani Tour 2018
-pageDescription: Wir sind ein Jugendstreicherensemble aus den Niederlanden! Diesen August gehen wir auf Tour nach Eisenach und Weimar, wo wir an verschiedenen Orten Konzerte geben werden.
+pageDescription: Wir sind ein Jugendstreicherensemble aus den Niederlanden! Diesen August gehen wir auf Tour nach Eisenach, Weimar, Dresden und Meiningen, wo wir an verschiedenen Orten Konzerte geben werden.
 stringEnsemble: Streicherensemble
 tourTitle: Deutschland Tour 2018
 lang: de
@@ -22,12 +22,10 @@ about:
       Als Ensemble treten wir seit 2013 an verschiedenen Orten auf. So haben wir kürzlich in Panorama Mesdag (Den Haag) und dem Museum für Religiöse Kunst (Uden) gespielt. Unter der musikalischen Leitung von unserem Dirigenten, Harry van der Meer, haben wir ein diverses Repertoire, von Boccherini bis hin zu Glazunov.
 
     tour: |
-      Diesen August gehen wir auf Tour nach Eisenach und Weimar, wo wir an verschiedenen Orten <a href="#concerts">Konzerte</a> geben werden. Wir freuen ons schon und hoffen Sie im Publikum begrüßen zu dürfen!
+      Diesen August gehen wir auf Tour nach Eisenach, Weimar, Dresden und Meiningen, wo wir an verschiedenen Orten <a href="#concerts">Konzerte</a> geben werden. Wir freuen ons schon und hoffen Sie im Publikum begrüßen zu dürfen!
 
 concerts:
   title: Konzerte
-  eisenach:
-    title: Bach Haus (Eisenach)
 
 donations:
   title: Spenden
