@@ -1,6 +1,6 @@
 pageTitle: I Musici Giovani Tournee 2018
 pageDescription: Wij zijn een jong strijkersensemble uit Den Haag! In augustus gaan we op tournee naar Eisenach en Weimar (Duitsland), waar we op een aantal locaties concerten zullen geven.
-stringEnsemble: Strijkensemble
+stringEnsemble: Strijkersensemble
 tourTitle: Duitsland Tour 2018
 lang: nl
 locale: nl_NL
@@ -15,6 +15,9 @@ common:
 about:
   title: Wij zijn een jong strijkersensemble uit Den Haag!
   text: |
+    We maken deel uit van <a href="https://hofstadsjeugdorkest.nl/">Vereniging Hofstads Jeugdorkest</a>, het oudste jeugdorkest ter wereld!
+    <br><br>
+
     In augustus gaan we op tournee naar Eisenach en Weimar (Duitsland), waar we op een aantal locaties concerten zullen geven! Wij hebben er al ontzettend veel zin in! 🎉
     <br><br>
 
@@ -68,3 +71,6 @@ soloists:
 
 contact:
   title: Contact
+
+footer:
+  partOfVhjo: I Musici Giovani maakt deel uit van <a href="https://hofstadsjeugdorkest.nl/">Vereniging Hofstads Jeugdorkest</a>.

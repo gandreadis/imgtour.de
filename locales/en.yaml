@@ -15,6 +15,9 @@ common:
 about:
   title: We are a youth string ensemble from The Netherlands!
   text: |
+    We are part of <a href="https://hofstadsjeugdorkest.nl/">The Hague Youth Symphony Orchestra</a>, the oldest youth orchestra in the world!
+    <br><br>
+
     This coming August, we're going on tour to various locations in Eisenach and Weimar (Germany), where we will give a number of <a href="#concerts">concerts</a>!
     <br><br>
 
@@ -68,3 +71,6 @@ soloists:
 
 contact:
   title: Contact
+
+footer:
+  partOfVhjo: I Musici Giovani is an ensemble of <a href="https://hofstadsjeugdorkest.nl/">The Hague Youth Symphony Orchestra</a>.

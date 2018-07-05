@@ -15,6 +15,9 @@ common:
 about:
   title: Wir sind ein Jugendstreicherensemble aus den Niederlanden!
   text: |
+    Wir gehören zur <a href="https://hofstadsjeugdorkest.nl/">Vereniging Hofstads JeugdOrkest</a>, die das älteste Jugendorchester der Welt hat!
+    <br><br>
+
     Diesen August gehen wir auf Tour nach Eisenach und Weimar, wo wir an verschiedenen Orten <a href="#concerts">Konzerte</a> geben werden.
     <br><br>
 
@@ -66,3 +69,6 @@ soloists:
 
 contact:
   title: Contact
+
+footer:
+  partOfVhjo: I Musici Giovani ist Teil des <a href="https://hofstadsjeugdorkest.nl/">Hofstads JeugdOrkest</a>.
