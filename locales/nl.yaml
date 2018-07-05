@@ -9,6 +9,14 @@ common:
   violin: Viool
   viola: Altviool
 
+about:
+  title: Wij zijn een jong strijkersensemble uit Den Haag!
+  text: |
+    In augustus gaan we op tournee naar Eisenach en Weimar (Duitsland), waar we op een aantal locaties concerten zullen geven! Wij hebben er al ontzettend veel zin in! 🎉
+    <br><br>
+
+    Wilt u ons helpen op tournee te gaan? Zie <a href="#donations">onderaan deze pagina</a> voor informatie over hoe u ons kunt helpen.
+
 concerts:
   title: Concerten
   eisenach:
@@ -18,10 +26,10 @@ donations:
   title: Sponsoring
   helpQuestion: Helpt u ons op tournee?
   standardPackage: |
-    Al met een kleine financiële bijdrage kunt u ons steunen! Voor slechts €5,- kunt u of een <strong>aanzichtkaart</strong> uit Duitsland of een <strong>exclusieve video opname</strong> van fragmenten van ons tournee programma kopen. Allebei kunt u met korting voor slechts €8,- krijgen!
+    Al met een kleine financiële bijdrage kunt u ons steunen! Voor slechts €5,- kunt u een <strong>aanzichtkaart</strong> uit Duitsland of een <strong>exclusieve video opname</strong> van fragmenten van ons tournee programma kopen. De combinatie van deze twee kunt u met korting voor slechts €8,- krijgen!
   formButton: Naar het donatie formulier!
   customPackage: |
-    Interesse in grotere sponsorpakketten? Neem graag <a href="mailto:imgtour2018@gmail.com">contact</a> met ons op.
+    Interesse in <strong>grotere sponsorpakketten</strong>? Neem graag <a href="mailto:imgtour2018@gmail.com">contact</a> met ons op.
 
 repertoire:
   title: Repertoire

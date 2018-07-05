@@ -10,7 +10,12 @@ common:
   viola: Bratsche
 
 about:
-  text:
+  title: Wir sind ein Jugendstreicherensemble aus den Niederlanden!
+  text: |
+    Diesen August gehen wir auf Tour nach Eisenach und Weimar, wo wir an verschiedenen Orten <a href="#concerts">Konzerte</a> geben werden.
+    <br><br>
+
+    Wir freuen ons schon und hoffen Sie im Publikum begrüßen zu dürfen!
 
 concerts:
   title: Konzerte
@@ -22,9 +27,9 @@ donations:
   helpQuestion: Helfen Sie uns auf Tour?
   standardPackage: |
     Eine Tour wie diese hat leider ihre Kosten und wir können alle Hilfe gut gebrauchen! Wir bieten eine <strong>Postkarte</strong> und ein <strong>exklusives Video</strong> mit Fragmenten aus unserem Programm, zu je €5,-. Beide zusammen sind für €8,- zu erhalten!
-  formButton: Spendenformular ausfüllen!
+  formButton: Zum Spendenformular!
   customPackage: |
-    Haben Sie Interesse in größere Sponsorpakete? Bitte <a href="mailto:imgtour2018@gmail.com">kontaktieren</a> Sie uns.
+    Haben Sie Interesse in <strong>größere Sponsorpakete</strong>? Bitte <a href="mailto:imgtour2018@gmail.com">kontaktieren</a> Sie uns.
 
 repertoire:
   title: Repertoire

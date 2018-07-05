@@ -9,6 +9,14 @@ common:
   violin: Violin
   viola: Viola
 
+about:
+  title: We are a youth string ensemble from The Netherlands!
+  text: |
+    This coming August, we're going on tour to various locations in Eisenach and Weimar (Germany), where we will give a number of <a href="#concerts">concerts</a>!
+    <br><br>
+
+    We're looking forward to the tour and hope to see you at one of our concerts!
+
 concerts:
   title: Concerts
   eisenach:
@@ -18,10 +26,10 @@ donations:
   title: Sponsoring
   helpQuestion: Would you like to help us go on tour?
   standardPackage: |
-    A tour like this one has its costs, and we appreciate all the help we can get! We offer a <strong>post card</strong> and an <strong>exclusive video recording</strong> of fragments of our repertoire, for €5,- each. Get both for €8,-!
+    A tour like this one has its costs, and we appreciate all the help we can get! We offer a <strong>post card</strong> and an <strong>exclusive video recording</strong> of fragments of our repertoire, for €5.- each. Get both for €8.-!
   formButton: Take me to the donation form!
   customPackage: |
-    Want to contribute more? Please <a href="mailto:imgtour2018@gmail.com">contact us</a> for more information on custom sponsoring packages.
+    Want to contribute more? Please <a href="mailto:imgtour2018@gmail.com">contact us</a> for more information on <strong>custom sponsoring packages</strong>.
 
 repertoire:
   title: Repertoire
