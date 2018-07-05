@@ -72,7 +72,7 @@
     </div>
 </div>
 
-<div class="content-section">
+<div class="content-section mt-5">
     <div class="container-fluid">
         <div class="row justify-content-center">
             <span class="col-4 col-lg-2">
@@ -372,7 +372,7 @@
 <script>
     $(function () {
         $(document).scroll(function () {
-            var $nav = $(".navbar.fixed-top");
+            const $nav = $(".navbar.fixed-top");
             $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height() || $(window).width() < 990);
         });
 
