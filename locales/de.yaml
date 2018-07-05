@@ -14,14 +14,15 @@ common:
 
 about:
   title: Wir sind ein Jugendstreicherensemble aus den Niederlanden!
-  text: |
-    Wir gehören zur <a href="https://hofstadsjeugdorkest.nl/">Vereniging Hofstads JeugdOrkest</a>, die das älteste Jugendorchester der Welt hat!
-    <br><br>
+  text:
+    vhjo: |
+      Wir gehören zur <a href="https://hofstadsjeugdorkest.nl/">Vereniging Hofstads JeugdOrkest</a>, die das älteste Jugendorchester der Welt hat!
 
-    Diesen August gehen wir auf Tour nach Eisenach und Weimar, wo wir an verschiedenen Orten <a href="#concerts">Konzerte</a> geben werden.
-    <br><br>
+    ensemble: |
+      Als Ensemble treten wir seit 2013 an verschiedenen Orten auf. So haben wir kürzlich in Panorama Mesdag (Den Haag) und dem Museum für Religiöse Kunst (Uden) gespielt. Unter der musikalischen Leitung von unserem Dirigenten, Harry van der Meer, haben wir ein diverses Repertoire, von Boccherini bis hin zu Glazunov.
 
-    Wir freuen ons schon und hoffen Sie im Publikum begrüßen zu dürfen!
+    tour: |
+      Diesen August gehen wir auf Tour nach Eisenach und Weimar, wo wir an verschiedenen Orten <a href="#concerts">Konzerte</a> geben werden. Wir freuen ons schon und hoffen Sie im Publikum begrüßen zu dürfen!
 
 concerts:
   title: Konzerte
