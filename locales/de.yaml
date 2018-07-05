@@ -1,1 +1,60 @@
-title: I Musici Giovani Konzert Tour 2018
+pageTitle: I Musici Giovani Tour 2018
+stringEnsemble: Streicherensemble
+tourTitle: Deutschland Tour 2018
+
+common:
+  composer: Komponist
+  soloistMale: Solist
+  soloistFemale: Solistin
+  violin: Geige
+  viola: Bratsche
+
+about:
+  text:
+
+concerts:
+  title: Konzerte
+  eisenach:
+    title: Bach Haus (Eisenach)
+
+donations:
+  title: Spenden
+  helpQuestion: Helfen Sie uns auf Tour?
+  standardPackage: |
+    Eine Tour wie diese hat leider ihre Kosten und wir können alle Hilfe gut gebrauchen! Wir bieten eine <strong>Postkarte</strong> und ein <strong>exklusives Video</strong> mit Fragmenten aus unserem Programm, zu je €5,-. Beide zusammen sind für €8,- zu erhalten!
+  formButton: Spendenformular ausfüllen!
+  customPackage: |
+    Haben Sie Interesse in größere Sponsorpakete? Bitte <a href="mailto:imgtour2018@gmail.com">kontaktieren</a> Sie uns.
+
+repertoire:
+  title: Repertoire
+  jsbach:
+    title: Konzert in G-Moll für Geige und Orchester
+    composer: J.S. Bach
+  vivaldi:
+    title: Die Vier Jahreszeiten - Sommer
+    composer: Antonio Vivaldi
+  jcbach:
+    title: Konzert in C-Moll für Bratsche und Orchester
+    composer: J.C. Bach, Henri Casadesus
+
+conductor:
+  title: Dirigent
+  text: |
+    Harry van der Meer (1946) studierte Geige und Schulmusik am Königlichen Konservatorium in Den Haag. Während dieser Ausbildung studierte er Orchesterleitung bei Louis Stotijn und Musiktheorie bei Roderik de Man. Schon während seines Studiums arbeitete er noch als Musiklehrer am Edith Steincollege in Den Haag.
+    <br><br>
+
+    Seit 1985 arbeitet er als freiberuflicher Geiger bei verschiedenen Orchestern und Ensembles im In- und Ausland. Er arbeitet auch als Geigen- und Kammermusiklehrer auf verschiedenen Festivals, unter anderem in Ungarn und Deutschland.
+    <br><br>
+
+    Ab 1980 gibt Harry v.d. Meer verschiedene Kurse in der Geschichte der Musik, unter anderem in Den Haag, Voorburg und Wassenaar. Darüber hinaus hält er Vorträge zu verschiedenen musikhistorischen Themen in den Niederlanden.
+    Harry v.d. Meer hat seit 1980 eine große Praxis als Privatlehrer für Geige und Musiktheorie.
+    <br><br>
+
+    Seit 2003 ist er als Dirigent beim Hofstad Jugendorchester Den Haag (dem ältesten Jugendorchester der Welt) tätig, wo er das Streichersensemble 'I Musici Giovani' leitet.
+
+soloists:
+  title: Solisten
+
+contact:
+  title: Contact

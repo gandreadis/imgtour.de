@@ -1,0 +1,84 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+    font-family: Hind, Arial, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Montserrat, Arial, sans-serif !important;
+}
+
+/* NAVBAR */
+.navbar.fixed-top {
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: #fdfdfd !important;
+    transition: all 200ms linear;
+}
+
+.navbar.fixed-top a {
+    color: #fdfdfd !important;
+}
+
+.navbar.fixed-top a:hover {
+    color: #fff !important;
+}
+
+.navbar.fixed-top:not(.scrolled) .navbar-toggler {
+    border-color: #eff;
+}
+
+.navbar.fixed-top:not(.scrolled) .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.navbar.fixed-top.scrolled {
+    background-color: rgba(255, 255, 255, 0.9) !important;
+    color: #333 !important;
+    transition: all 200ms linear;
+}
+
+.navbar.fixed-top.scrolled a {
+    color: #333 !important;
+}
+
+.navbar.fixed-top.scrolled a:hover {
+    color: #777 !important;
+}
+
+/* HEADER SECTION */
+
+.header-section {
+    height: 100%;
+
+    background: url("/images/img-spring-2018.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.header-overlay {
+    background: rgba(0, 192, 255, 0.42);
+}
+
+.header-section h1 {
+    font-weight: 700;
+    font-size: 4rem;
+}
+
+.header-section .subtitle {
+    font-size: 3rem;
+}
+
+/* CONTENT SECTIONS */
+
+.content-section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.content-section h2 {
+    font-weight: 700;
+    text-align: center;
+
+    margin-bottom: 2rem;
+}

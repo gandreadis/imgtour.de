@@ -2,9 +2,303 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title data-t="title"></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title data-t="pageTitle"></title>
+    <link rel="icon" type="image/png" href="/favicon.png"/>
+
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+          integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Hind|Montserrat:400,700">
 </head>
 <body>
-Test
+
+<nav class="navbar navbar-expand-lg fixed-top navbar-light" style="background-color: rgba(0, 0, 0, 0);">
+    <a class="navbar-brand" href="#" data-t="pageTitle"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="#concerts" data-t="concerts.title"></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#donations" data-t="donations.title"></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#repertoire" data-t="repertoire.title"></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#conductor" data-t="conductor.title"></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#soloists" data-t="soloists.title"></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#contact" data-t="contact.title"></a>
+            </li>
+            <li class="nav-item d-flex  align-center">
+                <a class="nav-link d-inline mr-2 mr-lg-0" href="/">
+                    <img src="/images/flags/en.svg" height="18" class="rounded" alt="English">
+                </a>
+                <a class="nav-link d-inline mr-2 mr-lg-0" href="/de">
+                    <img src="/images/flags/de.svg" height="18" class="rounded" alt="German">
+                </a>
+                <a class="nav-link d-inline mr-2 mr-lg-0" href="/nl">
+                    <img src="/images/flags/nl.svg" height="18" class="rounded" alt="Dutch">
+                </a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="header-section text-center text-white h-100">
+    <div class="header-overlay d-flex flex-column align-center h-100">
+        <div class="my-auto">
+            <h2 data-t="stringEnsemble"></h2>
+            <h1>I Musici Giovani</h1>
+            <h2 data-t="tourTitle"></h2>
+        </div>
+    </div>
+</div>
+
+<div class="content-section">
+    <div class="container">
+        About.
+    </div>
+</div>
+
+<div id="concerts" class="content-section">
+    <div class="container">
+        <h2 data-t="concerts.title"></h2>
+
+        <div class="row">
+            <div class="col-md-4 col-12 mb-4 mb-md-0 text-center">
+                <div class="col-6 col-md-12 mx-auto">
+                    <img src="/images/bach-house-eisenach.jpg" class="img-fluid rounded mx-auto"
+                         alt="Bach House Eisenach">
+                </div>
+            </div>
+            <div class="col-md-8 col-12">
+                <h3 data-t="concerts.eisenach.title"></h3>
+                <div>
+                    <span class="fa fa-calendar-o mr-2"></span>
+                    2018/08/00 0:00
+                </div>
+                <div>
+                    <a href="https://goo.gl/maps/HyN5GHnY9S62">
+                        <span class="fa fa-map-marker mr-2"></span>
+                        Frauenplan 21, 99817 Eisenach, Germany
+                    </a>
+                </div>
+                <div>
+                    <a href="/">
+                        <span class="fa fa-facebook mr-2"></span>
+                        Facebook Event
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="donations" class="content-section">
+    <div class="container text-center">
+        <h2 data-t="donations.title"></h2>
+
+        <h3 data-t="donations.helpQuestion"></h3>
+
+        <p data-t="donations.standardPackage"></p>
+
+        <div class="text-center">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSepYCFrCgUuWRoCQloNP_5QQIECFOFSTLun_tPhyXR8NyTAkQ/viewform?usp=sf_link"
+               class="btn btn-success" data-t="donations.formButton"></a>
+        </div>
+
+        <p data-t="donations.customPackage" class="mt-3"></p>
+    </div>
+</div>
+
+<div id="repertoire" class="content-section">
+    <div class="container">
+        <h2 data-t="repertoire.title"></h2>
+        <div class="row py-2">
+            <div class="col-2 col-md-1 text-center d-flex flex-column align-center">
+                <span class="fa fa-music fa-3x my-auto text-info"></span>
+            </div>
+            <div class="col-10 col-md-11">
+                <h3 data-t="repertoire.jsbach.title"></h3>
+                <div>
+                    <span class="text-muted mr-2" data-t="common.composer"></span>
+                    <span data-t="repertoire.jsbach.composer"></span>
+                </div>
+                <div>
+                    <span class="text-muted mr-2" data-t="common.soloistFemale"></span>
+                    Lisanne Clignett
+                </div>
+            </div>
+        </div>
+        <div class="row py-2">
+            <div class="col-2 col-md-1 text-center d-flex flex-column align-center">
+                <span class="fa fa-music fa-3x my-auto text-warning"></span>
+            </div>
+            <div class="col-10 col-md-11">
+                <h3 data-t="repertoire.vivaldi.title"></h3>
+                <div>
+                    <span class="text-muted mr-2" data-t="common.composer"></span>
+                    <span data-t="repertoire.vivaldi.composer"></span>
+                </div>
+                <div>
+                    <span class="text-muted mr-2" data-t="common.soloistFemale"></span>
+                    Ester Dingemanse
+                </div>
+            </div>
+        </div>
+        <div class="row py-2">
+            <div class="col-2 col-md-1 text-center d-flex flex-column align-center">
+                <span class="fa fa-music fa-3x my-auto text-success"></span>
+            </div>
+            <div class="col-10 col-md-11">
+                <h3 data-t="repertoire.jcbach.title"></h3>
+                <div>
+                    <span class="text-muted mr-2" data-t="common.composer"></span>
+                    <span data-t="repertoire.jcbach.composer"></span>
+                </div>
+                <div>
+                    <span class="text-muted mr-2" data-t="common.soloistMale"></span>
+                    Jorgos Andreadis
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="conductor" class="content-section">
+    <div class="container">
+        <h2 data-t="conductor.title"></h2>
+
+
+        <div class="row">
+            <div class="col-md-4 col-12 text-center mb-4 mb-md-0">
+                <img src="/images/harry-van-der-meer.png" class="img-fluid rounded" alt="Harry van der Meer">
+            </div>
+            <div class="col-md-8 col-12">
+                <h3 class="text-md-left text-center">Harry van der Meer</h3>
+                <p data-t="conductor.text"></p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div id="soloists" class="content-section">
+    <div class="container">
+        <h2 data-t="soloists.title"></h2>
+
+        <div class="card-deck">
+            <div class="card">
+                <img class="card-img-top" src="/images/soloists/lisanne-clignett.jpg" alt="Lisanne Clignett">
+                <div class="card-body">
+                    <h5 class="card-title">Lisanne Clignett</h5>
+                    <p class="card-text">
+                        <small class="text-muted" data-t="common.violin"></small>
+                    </p>
+                    <!--<p class="card-text">JSBach</p>-->
+                </div>
+            </div>
+            <div class="card">
+                <img class="card-img-top" src="/images/soloists/ester-dingemanse.jpg" alt="Ester Dingemanse">
+                <div class="card-body">
+                    <h5 class="card-title">Ester Dingemanse</h5>
+                    <p class="card-text">
+                        <small class="text-muted" data-t="common.violin"></small>
+                    </p>
+                    <!--<p class="card-text">Vivaldi</p>-->
+                </div>
+            </div>
+            <div class="card">
+                <img class="card-img-top" src="/images/soloists/jorgos-andreadis.jpg" alt="Jorgos Andreadis">
+                <div class="card-body">
+                    <h5 class="card-title">Jorgos Andreadis</h5>
+                    <p class="card-text">
+                        <small class="text-muted" data-t="common.viola"></small>
+                    </p>
+                    <!--<p class="card-text">JCBach</p>-->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="contact" class="content-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6">
+                <h4 data-t="contact.title"></h4>
+                <div>
+                    <a href="mailto:imgtour2018@gmail.com">
+                        <span class="fa fa-envelope mr-2"></span>
+                        imgtour2018@gmail.com
+                    </a>
+                </div>
+                <div class="mt-2 mt-md-5">
+                    &copy;
+                    <script>document.write(new Date().getFullYear().toString())</script>
+                    I Musici Giovani
+                </div>
+            </div>
+            <div class="col-6 col-md-3 pt-5 pt-md-0">
+                <img src="/images/se-logo.jpg" alt="String Ensemble I Musici Giovani"
+                     class="img-fluid">
+            </div>
+            <div class="col-6 col-md-3 pt-5 pt-md-0">
+                <img src="/images/hofstads-jeugdorkest-logo.png" alt="Vereniging Hofstads JeugdOrkest"
+                     class="img-fluid">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+        integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+        crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/c9c6608cf0.js"></script>
+
+<script>
+    $(function () {
+        $(document).scroll(function () {
+            var $nav = $(".navbar.fixed-top");
+            $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height() || $(window).width() < 990);
+        });
+
+        $(document).ready(function () {
+            handleWindowSize();
+        });
+
+        $(window).resize(function () {
+            handleWindowSize();
+        });
+
+        function handleWindowSize() {
+            if ($(window).width() < 990) {
+                $('.navbar.fixed-top').addClass('scrolled');
+            } else {
+                if ($(document).scrollTop() <= $(".navbar.fixed-top").height()) {
+                    $('a').removeClass('scrolled');
+                }
+            }
+        }
+    });
+</script>
 </body>
 </html>

@@ -1,0 +1,59 @@
+pageTitle: I Musici Giovani Tournee 2018
+stringEnsemble: Strijkensemble
+tourTitle: Duitsland Tour 2018
+
+common:
+  composer: Componist
+  soloistMale: Solist
+  soloistFemale: Soliste
+  violin: Viool
+  viola: Altviool
+
+concerts:
+  title: Concerten
+  eisenach:
+    title: Bach Huis (Eisenach)
+
+donations:
+  title: Sponsoring
+  helpQuestion: Helpt u ons op tournee?
+  standardPackage: |
+    Al met een kleine financiële bijdrage kunt u ons steunen! Voor slechts €5,- kunt u of een <strong>aanzichtkaart</strong> uit Duitsland of een <strong>exclusieve video opname</strong> van fragmenten van ons tournee programma kopen. Allebei kunt u met korting voor slechts €8,- krijgen!
+  formButton: Naar het donatie formulier!
+  customPackage: |
+    Interesse in grotere sponsorpakketten? Neem graag <a href="mailto:imgtour2018@gmail.com">contact</a> met ons op.
+
+repertoire:
+  title: Repertoire
+  jsbach:
+    title: Concert in g mineur voor viool en orkest
+    composer: J.S. Bach
+  vivaldi:
+    title: De vier jaargetijden - zomer
+    composer: Antonio Vivaldi
+  jcbach:
+    title: Concert in c mineur voor altviool en orkest
+    composer: J.C. Bach, Henri Casadesus
+
+conductor:
+  title: Dirigent
+  text: |
+    Harry van der Meer (1946) studeerde viool en schoolmuziek aan het Koninklijk Conservatorium te Den Haag.  Tijdens deze opleiding studeerde hij orkestdirectie bij Louis Stotijn en muziektheorie bij Roderik de Man. Nog tijdens zijn opleiding was hij werkzaam als docent muziek op het Edith Steincollege te Den Haag.
+    <br><br>
+
+    Vanaf 1985 is hij als free-lance violist werkzaam bij diverse orkesten en ensembles in binnen- en buitenland.  Tevens werkt hij als docent viool en kamermuziek bij diverse festivals in o.a. Hongarije en Duitsland.
+    <br><br>
+
+    Vanaf 1980 geeft Harry v.d. Meer diverse cursussen op het gebied van de historie van de muziek.  Dit onder andere in Den Haag, Voorburg en Wassenaar.  Daarnaast geeft hij lezingen over diverse muziekhistorische onderwerpen in heel Nederland.
+    Harry v.d. Meer heeft sinds 1980 een grote praktijk als privé-docent viool en muziektheorie.
+    <br><br>
+
+    Sinds 2003 is hij verbonden als dirigent bij het Hofstads Jeugd Orkest (het oudste jeugdorkest ter wereld), alwaar hij het Strijkers Ensemble 'I Musici Giovani' leidt.
+
+soloists:
+  title: Solisten
+  violin: Viool
+  viola: Altviool
+
+contact:
+  title: Contact

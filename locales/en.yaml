@@ -1,1 +1,59 @@
-title: I Musici Giovani Concert Tour 2018
+pageTitle: I Musici Giovani Tour 2018
+stringEnsemble: String Ensemble
+tourTitle: Germany Tour 2018
+
+common:
+  composer: Composer
+  soloistMale: Soloist
+  soloistFemale: Soloist
+  violin: Violin
+  viola: Viola
+
+concerts:
+  title: Concerts
+  eisenach:
+    title: Bach House (Eisenach)
+
+donations:
+  title: Sponsoring
+  helpQuestion: Would you like to help us go on tour?
+  standardPackage: |
+    A tour like this one has its costs, and we appreciate all the help we can get! We offer a <strong>post card</strong> and an <strong>exclusive video recording</strong> of fragments of our repertoire, for €5,- each. Get both for €8,-!
+  formButton: Take me to the donation form!
+  customPackage: |
+    Want to contribute more? Please <a href="mailto:imgtour2018@gmail.com">contact us</a> for more information on custom sponsoring packages.
+
+repertoire:
+  title: Repertoire
+  jsbach:
+    title: Concert in G Minor for Violin and Orchestra
+    composer: J.S. Bach
+  vivaldi:
+    title: The Four Seasons - Summer
+    composer: Antonio Vivaldi
+  jcbach:
+    title: Concert in C Minor for Viola and Orchestra
+    composer: J.C. Bach, Henri Casadesus
+
+conductor:
+  title: Conductor
+  text: |
+    Harry van der Meer (1946) studied violin and school music at the Royal Conservatory of The Hague. During this training, he studied orchestral conducting with Louis Stotijn and music theory with Roderik de Man. Already while studying at the conservatory, he was working as a music teacher at the Edith Steincollege in The Hague.
+    <br><br>
+
+    Since 1985, he has been working as a free-lance violinist with various orchestras and ensembles at home and abroad. He also works as a violin and chamber music teacher at various festivals in, among others, Hungary and Germany.
+    <br><br>
+
+    Since 1980, Harry v.d. Meer gives various courses in the field of the history of music. This includes in The Hague, Voorburg, and Wassenaar. In addition, he gives lectures on various music historical topics throughout the Netherlands.
+    Harry v.d. Meer has since 1980 a great practice as a private teacher for violin and music theory.
+    <br><br>
+
+    Since 2003, he has been working as a conductor at the The Hague Youth Symphony Orchestra (the oldest youth orchestra in the world), where he leads the String Ensemble 'I Musici Giovani'.
+
+soloists:
+  title: Soloists
+  violin: Violin
+  viola: Viola
+
+contact:
+  title: Contact
