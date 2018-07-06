@@ -50,6 +50,9 @@ repertoire:
   jcbach:
     title: Concert in C Minor for Viola and Orchestra
     composer: J.C. Bach, Henri Casadesus
+  mozart:
+    title: Divertimento in B-Flat
+    composer: W.A. Mozart
 
 conductor:
   title: Conductor

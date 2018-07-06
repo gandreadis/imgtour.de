@@ -53,6 +53,9 @@ repertoire:
   jcbach:
     title: Concert in c mineur voor altviool en orkest
     composer: J.C. Bach, Henri Casadesus
+  mozart:
+    title: Divertimento in Bes
+    composer: W.A. Mozart
 
 conductor:
   title: Dirigent

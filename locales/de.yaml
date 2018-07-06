@@ -50,6 +50,9 @@ repertoire:
   jcbach:
     title: Konzert in C-Moll für Bratsche und Orchester
     composer: J.C. Bach, Henri Casadesus
+  mozart:
+    title: Divertimento in B-Dur
+    composer: W.A. Mozart
 
 conductor:
   title: Dirigent
