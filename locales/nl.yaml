@@ -11,6 +11,7 @@ common:
   soloistFemale: Soliste
   violin: Viool
   viola: Altviool
+  hapsichord: Klavecimbel
 
 about:
   title: Wij zijn een jong strijkersensemble uit Den Haag!
@@ -45,8 +46,11 @@ donations:
 
 repertoire:
   title: Repertoire
-  jsbach:
+  jsbachViolin:
     title: Concert in g mineur voor viool en orkest
+    composer: J.S. Bach
+  jsbachHapsichord:
+    title: Concert in F voor klavecimbel en orkest - 2. deel (Andante)
     composer: J.S. Bach
   vivaldi:
     title: De vier jaargetijden - zomer

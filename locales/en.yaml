@@ -11,6 +11,7 @@ common:
   soloistFemale: Soloist
   violin: Violin
   viola: Viola
+  hapsichord: Cembalo
 
 about:
   title: We are a youth string ensemble from The Netherlands!
@@ -42,8 +43,11 @@ donations:
 
 repertoire:
   title: Repertoire
-  jsbach:
+  jsbachViolin:
     title: Concert in G Minor for Violin and Orchestra
+    composer: J.S. Bach
+  jsbachHapsichord:
+    title: Concert in F for Cembalo and Orchestra - 2. Mvmt (Andante)
     composer: J.S. Bach
   vivaldi:
     title: The Four Seasons - Summer

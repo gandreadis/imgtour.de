@@ -11,6 +11,7 @@ common:
   soloistFemale: Solistin
   violin: Geige
   viola: Bratsche
+  hapsichord: Cembalo
 
 about:
   title: Wir sind ein Jugend-Streicherensemble aus den Niederlanden!
@@ -42,14 +43,17 @@ donations:
 
 repertoire:
   title: Repertoire
-  jsbach:
-    title: Konzert in G-Moll für Geige und Orchester
+  jsbachViolin:
+    title: Konzert in g-Moll für Geige und Orchester
+    composer: J.S. Bach
+  jsbachHapsichord:
+    title: Konzert in F-Dur für Cembalo und Orchester - 2. Satz (Andante)
     composer: J.S. Bach
   vivaldi:
     title: Die Vier Jahreszeiten - Sommer
     composer: Antonio Vivaldi
   jcbach:
-    title: Konzert in C-Moll für Bratsche und Orchester
+    title: Konzert in c-Moll für Bratsche und Orchester
     composer: J.C. Bach, Henri Casadesus
   mozart:
     title: Divertimento in B-Dur
