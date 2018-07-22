@@ -30,6 +30,8 @@ about:
 
 concerts:
   title: Concerts
+  freeEntry: Free Entry!
+  tickets: Tickets
 
 donations:
   title: Sponsoring
