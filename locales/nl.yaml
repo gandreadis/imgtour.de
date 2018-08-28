@@ -1,5 +1,5 @@
 pageTitle: I Musici Giovani Tournee 2018
-pageDescription: Wij zijn een jong strijkersensemble uit Den Haag! In augustus gaan we op tournee naar Eisenach, Meiningen, Arnstadt en Weimar (Duitsland), waar we op een aantal locaties concerten zullen geven.
+pageDescription: Wij zijn een jong strijkersensemble uit Den Haag! Augustus 2018 zijn wij op tournee gegaan naar Eisenach, Meiningen, Arnstadt en Weimar (Duitsland), waar we op een aantal locaties concerten hebben gegeven.
 stringEnsemble: Strijkersensemble
 tourTitle: Duitsland Tour 2018
 lang: nl
@@ -23,13 +23,10 @@ about:
       Sinds 2013 treden wij als ensemble meerdere keren per jaar op. Recent hebben wij in o.a. Panorama Mesdag (Den Haag) en het Museum voor Religieuze Kunst (Uden) gespeelt. Onder leiding van onze dirigent, Harry van der Meer, brengen we een divers repertoire ten gehore, van Boccherini tot Glazunov.
 
     tour: |
-      In augustus gaan we op tournee naar Eisenach, Meiningen, Arnstadt en Weimar (Duitsland), waar we op een aantal locaties concerten zullen geven! Wij hebben er al ontzettend veel zin in! 🎉
+      Augustus 2018 zijn wij op tournee gegaan naar Eisenach, Meiningen, Arnstadt en Weimar (Duitsland), waar we op een aantal locaties concerten hebben gegeven!
       <br><br>
 
       <strong>Updates ontvangen?</strong> Like onze <a href="https://www.facebook.com/imgtour2018/">Facebook pagina</a>!
-      <br><br>
-
-      <strong>Ons mee op tournee helpen?</strong> Zie <a href="#donations">onderaan deze pagina</a> voor meer informatie!
 
 concerts:
   title: Concerten
@@ -38,6 +35,7 @@ concerts:
 
 donations:
   title: Sponsoring
+  endMessage: Sponsoringsactie inmiddels afgesloten. Heel erg bedankt voor uw steun!
   helpQuestion: Helpt u ons op tournee?
   standardPackage: |
     Al met een kleine financiële bijdrage kunt u ons steunen! Voor slechts €5,- kunt u een <strong>ansichtkaart</strong> uit Duitsland of een <strong>exclusieve video opname</strong> van fragmenten van ons tournee programma kopen. De combinatie van deze twee kunt u met korting voor slechts €8,- krijgen!
